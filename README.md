@@ -1,9 +1,9 @@
 # Module3-Candymachine
 
-##Overview
+## Overview
 This repository contains configurations and settings for a Candy Machine, which is used for creating and managing NFT (Non-Fungible Token) collections.
 
-##Configuration Details
+## Configuration Details
 Below is an overview of the configuration settings:
 
 Price: 0.01 SOL (SOL is the native cryptocurrency of the Solana blockchain).
